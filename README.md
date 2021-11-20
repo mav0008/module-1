@@ -10,3 +10,5 @@ git config --global init.defaultBranch main
 git init  инициализация
 git add .  добавить все файлы
 git commit -m  выполнить коммит (сделать слепок) текущего состояния проекта
+git status текущее состояние репозитория
+git diff --color-words // показывает по строкам изменения
